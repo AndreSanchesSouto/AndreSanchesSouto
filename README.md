@@ -1,6 +1,10 @@
 
   <img height="150" width="150" src="https://cdn.discordapp.com/attachments/1233913618857459723/1284639251904073852/gifandrew.gif?ex=66e75d09&is=66e60b89&hm=5bd6cf668178b88606211705d609f7490f127762e0794c617c1f735d5afd30c0&">
-  <h1>Olá! Sou o André Souto</h1>
+  
+  # Olá! Sou o André Souto
+   - 💻🖥 Desenvolvedor Full-Stack em uma empresa de mais de 19 Anos de Excelência em Tecnologia de Vendas 🖥💻
+   - 📚🙇🏻 Estudante do 4° período em Tecnologia de Análise e Desenvolvimento de Sistemas 🙇🏻📚
+   - 🧑‍💻🖱 Rato de Hackathons 🖱🧑‍💻
 
 <div>
   <a href="https://www.linkedin.com/in/andr%C3%A9-sanches-souto-6438a5272/">
