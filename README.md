@@ -1,5 +1,5 @@
 
-  <img height="150" width="150" src="https://cdn.discordapp.com/attachments/1233913618857459723/1284639251904073852/gifandrew.gif?ex=66e75d09&is=66e60b89&hm=5bd6cf668178b88606211705d609f7490f127762e0794c617c1f735d5afd30c0&">
+  <img height="150" width="150" src="https://cdn.discordapp.com/attachments/1233913618857459723/1284639251904073852/gifandrew.gif?ex=66ffc0c9&is=66fe6f49&hm=0273000b1ed0c666a7457dad3f2954cd75317bce0830e979f0a0b1e2842bf646&">
   
   # Olá! Sou o André Souto
    - 💻🖥 Desenvolvedor Full-Stack em uma empresa de mais de 19 Anos de Excelência em Tecnologia de Vendas 🖥💻
