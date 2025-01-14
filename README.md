@@ -3,8 +3,7 @@
   
   # Olá! Sou o André Souto
    - 💻🖥 Desenvolvedor Full-Stack em uma empresa de mais de 19 Anos de Excelência em Tecnologia de Vendas 🖥💻
-   - 📚🙇🏻 Estudante do 4° período em Tecnologia de Análise e Desenvolvimento de Sistemas 🙇🏻📚
-   - 🧑‍💻🖱 Rato de Hackathons 🖱🧑‍💻
+   - 📚🙇🏻 Estudante do 5° período em Tecnologia de Análise e Desenvolvimento de Sistemas 🙇🏻📚
 
 <div>
   <a href="https://www.linkedin.com/in/andr%C3%A9-sanches-souto-6438a5272/">
