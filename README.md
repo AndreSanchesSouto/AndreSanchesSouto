@@ -6,12 +6,6 @@
    - 📚🙇🏻 Estudante do 5° período em Tecnologia de Análise e Desenvolvimento de Sistemas 🙇🏻📚
 
 <div>
-  <a href="https://www.linkedin.com/in/andr%C3%A9-sanches-souto-6438a5272/">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andresanchessouto&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresanchessouto&layout=compact&langs_count=7&theme=aura"/>
-</div>
-
-<div>
   
   ##### FRONT: 
   
