@@ -3,7 +3,7 @@
   
   # Olá! Sou o André Souto
    - 💻🖥 Desenvolvedor Full-Stack em uma empresa de mais de 19 Anos de Excelência em Tecnologia de Vendas 🖥💻
-   - 📚🙇🏻 Estudante do 5° período em Tecnologia de Análise e Desenvolvimento de Sistemas 🙇🏻📚
+   - 📚🙇🏻 Formao como Tecnnólogo em Tecnologias de Análise e Desenvolvimento de Sistemas 🙇🏻📚
 
 <div>
   
